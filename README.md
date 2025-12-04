@@ -28,6 +28,6 @@ int main() {
 
 
 ## 📊 My Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samwns&theme=transparent&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samwns&layout=compact&bg_color=0d1117&border_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)  
+[![GitHub Streak](https://streak-stats.demolab.com?user=Samwns&theme=gruvbox&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)  
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samwns&layout=compact&bg_color=0d1117&border_color=c9d1d9&title_color=c9d1d9&text_color=ffffff) --> 
 

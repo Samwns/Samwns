@@ -49,9 +49,7 @@ https://media.tenor.com/8Yp9XkSvkPIAAAAi/rei-ayanami-bread.gif
 
 
 ## 💻 Key Projects and My Contributions
-
-<!--[![test](https://samwns-readme-stats.vercel.app/api/pin/?username=samngueds&HyDE&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samwns/HyDE)  -->
-[![HyDE](https://samwns-readme-stats.vercel.app/api/pin/?username=samngueds&repo=HyDE&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samwns/HyDE)
+[![Uncraft](https://samwns-readme-stats.vercel.app/api/pin/?username=Samwns&repo=Uncraft&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samwns/Uncraft)
 
 
 

@@ -48,7 +48,7 @@ https://media.tenor.com/8Yp9XkSvkPIAAAAi/rei-ayanami-bread.gif
 ![Top Langs](https://samwns-readme-stats.vercel.app/api/top-langs/?username=Samwns&layout=compact&bg_color=0d1117&border_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)
 <!--
 <img src="https://media1.tenor.com/m/aAo5LNwJwRwAAAAC/machine-anime.gif"  width="300" height="195" /> -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Samwns&locale=pt_br&theme=dark&background=0D1117&border=C9D1D9&stroke=C9D1D9&ring=C9D1D9&fire=8B0911&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&excludeDaysLabel=C9D1D9)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Samwns&hide_border=falso&locale=pt_BR&short_numbers=verdadeiro&date_format=j%20M%5B%20Y%5D&fundo=0D1117&fronteira=C9D1D9&AVC=C9D1D9&anel=C9D1D9&fogo=8B0911&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&R%C3%B3tulos%20laterais=C9D1D9&datas=C9D1D9&r%C3%B3tulo%20de%20dias%20exclu%C3%ADdos=C9D1D9)](https://git.io/streak-stats)
 
 ## 💻 Key Projects and My Contributions
 [![Uncraft](https://samwns-readme-stats.vercel.app/api/pin/?username=Samwns&repo=Uncraft&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samwns/Uncraft)

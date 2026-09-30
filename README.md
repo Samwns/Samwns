@@ -51,6 +51,7 @@ https://media.tenor.com/8Yp9XkSvkPIAAAAi/rei-ayanami-bread.gif
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Samwns&hide_border=false&locale=pt_BR&short_numbers=true&background=0D1117&border=C9D1D9&stroke=C9D1D9&ring=C9D1D9&fire=8B0911&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&excludeDaysLabel=C9D1D9&v=1)](https://git.io/streak-stats)
 
 ## 💻 Key Projects and My Contributions
+[![Obsidian Fault Script](https://samwns-readme-stats.vercel.app/api/pin/?username=Samwns&repo=Obsidian-Fault-Script&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samwns/Obsidian-Fault-Script)
 [![Uncraft](https://samwns-readme-stats.vercel.app/api/pin/?username=Samwns&repo=Uncraft&bg_color=0d1117&border_color=c9d1d9&show_icons=true&icon_color=c9d1d9&title_color=c9d1d9&text_color=ffffff)](https://github.com/Samwns/Uncraft)
 ![Snake GIF](https://github.com/samwns/samwns/blob/output/github-snake-dark.svg)
 

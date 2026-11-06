@@ -27,8 +27,13 @@ fn main() {
 - DevGames
 </details>
 
+## 🌐 Social
+
+[![YouTube](https://img.shields.io/badge/YouTube-0d1117?style=for-the-badge&logo=youtube&logoColor=white)](SEU_LINK_YOUTUBE)
+[![Instagram](https://img.shields.io/badge/Instagram-0d1117?style=for-the-badge&logo=instagram&logoColor=white)](SEU_LINK_INSTAGRAM)
+
 ## 🔥 Main Languages  
-![Rust](https://img.shields.io/badge/rust-0d1117?style=flat-square&logo=rust&logoColor=c9d1d9) ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=C%2B%2B&logoColor=c9d1d9)  ![Java](https://img.shields.io/badge/java-0d1117?style=flat-square&logo=openjdk&logoColor=c9d1d9)  
+![C](https://img.shields.io/badge/C-0d1117?style=flat-square&logo=C%2B%2B&logoColor=c9d1d9) ![Rust](https://img.shields.io/badge/rust-0d1117?style=flat-square&logo=rust&logoColor=c9d1d9) ![C++](https://img.shields.io/badge/C++-0d1117?style=flat-square&logo=C%2B%2B&logoColor=c9d1d9)  ![Java](https://img.shields.io/badge/java-0d1117?style=flat-square&logo=openjdk&logoColor=c9d1d9)  
 
 ## 💾 SO
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=c9d1d9)

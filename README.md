@@ -20,7 +20,7 @@ fn main() {
 ## 👁️ About me
 <details>
   <summary> About me </summary>
-  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Sam 
+  - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> _ᴅᴇx-ɪ𝟣ꜰ(Sam) 
 </details>
 <details>
   <summary>🖥️ Learning </summary>
